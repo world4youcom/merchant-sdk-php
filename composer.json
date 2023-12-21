@@ -3,7 +3,7 @@
     "description": "Fork of PayPal Merchant SDK for PHP",
     "keywords": ["paypal", "php", "sdk"],
     "homepage": "https://github.com/world4youcom/paypal-merchant-sdk-php",
-    "license": "Apache-2.0",
+    "license": "PayPal SDK License",
     "authors": [
         {
             "name": "PayPal",
